@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pritamworld/w7_3133_nodejs_express_apollo_graphql.git"
-  },
   "keywords": [
     "mongoose",
     "Apollo",
@@ -21,10 +17,6 @@
   ],
   "author": "Pritesh Patel",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pritamworld/w7_3133_nodejs_express_apollo_graphql_template/issues"
-  },
-  "homepage": "https://github.com/pritamworld/w7_3133_nodejs_express_apollo_graphql_template#readme",
   "dependencies": {
     "apollo-server-express": "^2.19.2",
     "body-parser": "^1.19.0",
